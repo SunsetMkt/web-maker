@@ -47,7 +47,7 @@
 		"cypress": "^9.5.3",
 		"eslint": "^4.9.0",
 		"eslint-config-prettier": "^2.3.0",
-		"eslint-config-synacor": "^2.0.2",
+		"eslint-config-synacor": "^2.1.0",
 		"gulp": "^4.0.2",
 		"gulp-clean-css": "^3.9.2",
 		"gulp-concat": "^2.6.1",
